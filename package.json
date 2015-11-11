@@ -1,6 +1,6 @@
 {
   "name": "bignum-inc",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "pure js increment for big numbers",
   "main": "index.es5.js",
   "scripts": {
