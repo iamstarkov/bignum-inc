@@ -27,6 +27,7 @@ inc('419999999999999999999999'); // '420000000000000000000000'
 
 MIT © [Vladimir Starkov](https://iamstarkov.com)
 
+
 [npm-url]: https://npmjs.org/package/bignum-inc
 [npm-image]: https://img.shields.io/npm/v/bignum-inc.svg?style=flat-square
 
